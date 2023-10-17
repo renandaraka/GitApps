@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitApps</string>
+    <string name="user_name">Nama user</string>
+    <string name="searchbar_hint">Cari</string>
+    <string name="usernameDetail">Username</string>
+    <string name="namaDetail">Nama</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="jumlah_followers">Total Followers</string>
+    <string name="jumlah_following">Total Following</string>
+    <string name="list_favorite">List Favorite</string>
+    <string name="dark_mode">Dark Mode </string>
+    <string name="setting">Setting</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+</resources>
